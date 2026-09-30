@@ -1,0 +1,19 @@
+{
+  "name": "smart-farming-ai-platform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI-powered Smart Farming Platform using Gemini AI",
+  "author": "Karan Persoya",
+  "license": "MIT",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
